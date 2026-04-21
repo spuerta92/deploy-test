@@ -1,2 +1,3 @@
 # deploy-test
-Initial deployment test to AWS S3
+Test deployment using Github Workflow Actions
+
